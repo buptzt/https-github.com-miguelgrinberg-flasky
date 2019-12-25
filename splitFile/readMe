@@ -1,0 +1,3 @@
+#本脚本用于测试使用split命令
+#对文件进行分割，然后组装成sql语句，再进行执行。
+split -2000   20191224_id.csv  call_records_update_
